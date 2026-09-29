@@ -6,7 +6,7 @@ Video-based person re-IDentification (re-ID) aims to retrieve videos of the same
 
 ## Inference Pipeline
 
-![Inference Pipeline](./figures/ISFL.png)
+![Inference Pipeline](./figures/ISFL.pdf)
 
 The STICC architecture include:
 - **Identity-Discriminative Feature Encoding**: Extracts identity-discriminative features for each individual.
